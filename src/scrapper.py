@@ -71,7 +71,7 @@ def main():
     result= []
     for provincia in provincias.keys():
         result+= extraer_apartamentos(provincias[provincia]['url'], provincia)
-    to_csv(result,"../output/apartamentos.csv")
+    to_csv(result,"../dataset/apartamentos.csv")
 
 if __name__ == "__main__":
     main()
