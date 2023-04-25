@@ -1,2 +1,4 @@
-# realEstateWebScrapper
-Web Scrapper de Real Estate sacado de la página www.pisos.com
+# Práctica 1 - Web Scraping
+Tipología y Ciclo de Vida de los Datos
+Máster en Ciencia de Datos
+Universitat Oberta de Catalunya
