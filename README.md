@@ -6,3 +6,6 @@ Tipología y Ciclo de Vida de los Datos
 Máster en Ciencia de Datos
   
 Universitat Oberta de Catalunya
+## Licencia
+Realased Under CC BY-NC-ND License  
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png)
